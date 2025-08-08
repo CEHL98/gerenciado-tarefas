@@ -1,0 +1,25 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+bin/
+
+# Banco de dados (se houver)
+*.db
+*.h2.db
+
+# Logs
+*.log
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
